@@ -1,2 +1,4 @@
+import Data.List (union)
+
 main = do
-    print (sum [x | x <- [0..999], mod x 3 == 0 || mod x 5 == 0])
+    print (sum (union [3,6..999] [5,10..999]))
