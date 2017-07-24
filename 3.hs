@@ -12,4 +12,4 @@ largestPrimeFactor (p:ps) n =
     else largestPrimeFactor ps n
 
 main = do
-    print (largestPrimeFactor primes 600851475143)
+    print $ largestPrimeFactor primes 600851475143

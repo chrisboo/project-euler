@@ -1,0 +1,10 @@
+C:\Users\crispy\Documents\pe\n
+C:\Windows\System32\pcl.sep
+C:\Windows\System32\pscript.sep
+C:\Program Files\MiKTeX 2.9\miktex\bin\x64\pdfcrop.exe
+C:\Program Files\MiKTeX 2.9\miktex\bin\x64\psnup.exe
+C:\Program Files\PuTTY\pscp.exe
+C:\Program Files\PuTTY\psftp.exe
+C:\Users\crispy\AppData\Local\Programs\Python\Python36\Scripts\pip.exe
+C:\Anaconda2\Scripts\pip.exe
+C:\Anaconda2\Scripts\ptdump.exe
