@@ -1,0 +1,6 @@
+primes = 2 : primes'
+    where isPrime (p:ps) n = p * p > n || n `rem` p /= 0 && isPrime ps n
+          primes' = 3 : filter (isPrime primes') [3,5..]
+
+main = do
+    print $ primes !! 10001
