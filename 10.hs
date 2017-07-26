@@ -4,4 +4,4 @@ primes = 2 : primes'
           primes' = 3 : filter (isPrime primes') [5,7..2000000]
 
 main = do
-    print $ foldr1 (+) primes
+    print $ sum primes
